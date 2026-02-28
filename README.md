@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Thanks for coming my gitbub 👋🙏
+### I'm a Undergraduate on Industrial Engineering, Hanyang Univ. 
 <!--
 **moonyeongcho/moonyeongcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
