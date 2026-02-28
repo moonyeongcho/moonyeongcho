@@ -1,4 +1,4 @@
-## Thanks for coming my gitbub 👋🙏
+## Thanks for coming my github 👋🙏
 ### I'm a Undergraduate on Industrial Engineering at Hanyang University, Seoul
 <!--
 **moonyeongcho/moonyeongcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
