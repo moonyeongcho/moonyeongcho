@@ -1,5 +1,3 @@
-## Thanks for coming my github 👋🙏
-
 Hi, I'm Moonyeong Cho, Undergraduate in Industrial Engineering at Hanyang University (Seoul), expected graduation Feb 2027. **Interested in applying AI and data analytics to manufacturing and industrial systems.**
 
 ---
