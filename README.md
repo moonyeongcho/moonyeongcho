@@ -5,7 +5,7 @@ Hi, I'm Moonyeong Cho, Undergraduate in Industrial Engineering at Hanyang Univer
 ## Research Interests
 
 - Time-series forecasting & anomaly detection in industrial environments
-- Machine learning for smart factory operations (energy, scheduling, quality)
+- Reinforcement Learning for Manufacturing Systems
 - LLM / RAG applications in engineering contexts
 
 ---
@@ -14,11 +14,11 @@ Hi, I'm Moonyeong Cho, Undergraduate in Industrial Engineering at Hanyang Univer
 
 | Project | Description | Key Methods |
 |---------|-------------|-------------|
-| [Battery State Prediction](https://github.com/moonyeongcho/Project1_Battery-Temp-Predict) | Real-time battery state forecasting for Formula Student EV | TCN, LSTM, Transformer, Multi-task regression |
+| [Battery State Prediction](https://github.com/moonyeongcho/Project1_Battery-Temp-Predict) | Real-time battery state forecasting for Formula Student Team | TCN, LSTM, Transformer |
 | [Smart Factory Power Forecasting](https://github.com/moonyeongcho/Project2_factory-power-predict) | Power consumption prediction + anomaly detection + TOU-based LP scheduling | Random Forest, CatBoost, Linear Programming |
 | [HFS Scheduling](https://github.com/moonyeongcho/semi-conductor-HFS-scheduling) | Hybrid flow shop scheduling with queue time constraints and re-entrance | Genetic Programming, DQN |
-| [Learner Completion Prediction](https://github.com/moonyeongcho/Project3_completion-predict) | Binary classification for learning dropout prediction | XGBoost, CatBoost, OOF threshold tuning |
-| [Group Dropout Prevention](https://github.com/moonyeongcho/Project4_BDAI-learner-group) | Identifying dropout risk factors in team activities | Logistic Regression, KMeans |
+| [Learner Completion Prediction](https://github.com/moonyeongcho/Project3_completion-predict) | Binary classification for learning churn prediction | XGBoost, CatBoost |
+| [Group Dropout Prevention](https://github.com/moonyeongcho/Project4_BDAI-learner-group) | Identifying churn risk factors in team activities | Logistic Regression, KMeans |
 
 ---
 
