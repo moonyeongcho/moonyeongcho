@@ -14,12 +14,11 @@ Hi, I'm Moonyeong Cho, Undergraduate in Industrial Engineering at Hanyang Univer
 | Project | Description | Key Methods |
 |---------|-------------|-------------|
 | [Battery State Prediction](https://github.com/moonyeongcho/Project1_Battery-Temp-Predict) | Real-time battery state forecasting for Formula Student Team | TCN, LSTM, Transformer |
+| [Semi-Conductor HFS Scheduling](https://github.com/moonyeongcho/semi-conductor-HFS-scheduling) | Hybrid flow shop scheduling with reworks under overlapped queue time limits | Genetic Programming, Deep Q-Network |
+| [MTSAD-GCAD](https://github.com/moonyeongcho/mtsad_gcad) | Multivariate time series anomaly detection based on Granger causality with gradient-based causal matrix | TSMixer, Granger Causality, RevIN |
 | [Factory Power Prediction](https://github.com/moonyeongcho/Project2_factory-power-predict) | Power consumption prediction with anomaly detection and TOU-based LP scheduling | Random Forest, CatBoost, Linear Programming |
-| [Semi-Conductor HFS Scheduling](https://github.com/moonyeongcho/semi-conductor-HFS-scheduling) | Hybrid flow shop scheduling with queue time constraints and re-entrance | Genetic Programming, DQN |
 | [Learner Completion Prediction](https://github.com/moonyeongcho/Project3_completion-predict) | Binary classification for learning churn prediction | XGBoost, CatBoost |
-| [Group Churn Prevention](https://github.com/moonyeongcho/Project4_BDAI-learner-group) | Identifying churn risk factors in team activities | Logistic Regression, KMeans |
 
----
 
 ## Skills
 
