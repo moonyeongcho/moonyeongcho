@@ -22,7 +22,7 @@ Hi, I'm Moonyeong Cho, Undergraduate in Industrial Engineering at Hanyang Univer
 
 ## Skills
 
-- **Languages**: Python
+- **Languages**: Python, C
 - **ML/DL**: scikit-learn, XGBoost, CatBoost, PyTorch
 - **Tools**: Tableau
 
